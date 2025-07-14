@@ -1,16 +1,41 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Paulus Kassapa</h1>
+<p align="center">Aspiring Software Engineer | Informatics Engineering Student @Universitas Tarumanagara</p>
 
-<!--
-**pauluskassapa/pauluskassapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 First-year Informatics Engineering student  
+- 🌱 Currently learning *HTML, **CSS, **Git, and **Python*  
+- 👨‍💻 Interested in *Web Development* and *Software Engineering*  
+- 🏆 Passionate about building real-world projects and continuous learning  
+- 🧠 Former high school student active in *Basketball Club* & *eSports Club (PUBG)*  
+- 🎯 Contributor & supporter in school’s major event *ACUP*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pauluskassapa&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- 🌐 [LinkedIn](https://linkedin.com/in/pauluskassapa)
+- 📧 Email: tulis email kamu di sini nanti ya
+- 📷 Instagram: [@pauluskss_](https://instagram.com/pauluskss_)
+
+---
+
+### ⚡ Fun Fact:
+> I’m currently building my first portfolio while preparing for future internships 🎯
