@@ -32,7 +32,7 @@
 
 ### 📫 Connect With Me
 - 🌐 [LinkedIn](https://linkedin.com/in/pauluskassapa)
-- 📧 Email: tulis email kamu di sini nanti ya
+- 📧 Email: paulussuherman1@gmail.com
 - 📷 Instagram: [@pauluskss_](https://instagram.com/pauluskss_)
 
 ---
