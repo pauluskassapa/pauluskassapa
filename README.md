@@ -63,9 +63,10 @@ Currently, I am building a solid foundation in networking, Linux, operating syst
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pauluskassapa&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauluskassapa&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pauluskassapa&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
