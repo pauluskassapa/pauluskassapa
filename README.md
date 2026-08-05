@@ -1,7 +1,7 @@
-Hi 👋, I'm Paulus Kassapa
+<h1 align="center">Hi 👋 I'm Paulus Kassapa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Future+SOC+Analyst;Blue+Team+Learner;Computer+Science+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Future+SOC+Analyst;Blue+Team+Learner;Computer+Science+Student"/>
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@ Hi 👋, I'm Paulus Kassapa
 
 🎓 Computer Science Student at Universitas Tarumanagara
 
-🛡️ Passionate about Cybersecurity, Blue Team, and SOC Operations
+🛡️ Interested in Cybersecurity, Blue Team, SOC Operations, and Cloud Security
 
-🌱 Currently Learning
+🌱 Currently learning:
 
 Linux
 
@@ -28,13 +28,9 @@ Splunk
 
 Microsoft Sentinel
 
-Incident Response
+🎯 Goal: Become a SOC Analyst and continuously improve through hands-on labs.
 
-🎯 Goal
-
-Become a SOC Analyst and build a strong cybersecurity portfolio.
-
-🚀 Tech Stack
+🧰 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,aws,mysql,postgres,html,css,js,php,laravel"/>
@@ -43,25 +39,19 @@ Become a SOC Analyst and build a strong cybersecurity portfolio.
 🔐 Cybersecurity Tools
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Wazuh-0055A4?style=for-the-badge&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Wazuh-0055A4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
-
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
-
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux"/>
-
 </p>
 
-📊 GitHub Statistics
+📊 GitHub Stats
 
-Ganti URL stats dengan deployment Vercel milikmu jika layanan publik sedang down.
+Replace YOUR_VERCEL_DOMAIN if you self-host github-readme-stats.
 
-<img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=pauluskassapa&show_icons=true&theme=tokyonight"/>
-<img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=pauluskassapa&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://YOUR_VERCEL_DOMAIN.vercel.app/api?username=pauluskassapa&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs/?username=pauluskassapa&layout=compact&theme=tokyonight"/>
 
 🔥 GitHub Streak
 
@@ -73,70 +63,36 @@ Ganti URL stats dengan deployment Vercel milikmu jika layanan publik sedang down
 
 🏆 GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=pauluskassapa&theme=tokyonight&row=2&column=4"/>
-
-🐍 Snake Animation
-
-<img src="https://raw.githubusercontent.com/pauluskassapa/pauluskassapa/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pauluskassapa&theme=tokyonight&column=4&row=2"/>
 
 🚀 Featured Projects
 
-Project
+Repository
 
 Description
 
-🛡 paul-security-labs
+paul-security-labs
 
-Home SOC & Detection Labs
+Blue Team & SOC labs
 
-🏠 home-soc-lab
+home-soc-lab
 
-SOC Architecture
+Home Security Operations Center
 
-🐍 python-security-tools
+python-security-tools
 
-Security Automation
+Python scripts for security
 
-📄 writeups
+writeups
 
-Learning Notes
+Learning notes & labs
 
-🌐 Connect With Me
+🌐 Connect
 
 <p align="center">
-
-<a href="https://github.com/pauluskassapa">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<a href="https://github.com/pauluskassapa"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
-📚 2026 Learning Roadmap
-
-✅ Linux Fundamentals
-
-✅ Networking
-
-🔄 Python Automation
-
-🔄 Wazuh
-
-🔄 Splunk
-
-⏳ Detection Engineering
-
-⏳ Threat Hunting
-
-⏳ Cloud Security
-
 "Security is a journey of continuous learning."
-
-⭐ Thanks for visiting my profile!
