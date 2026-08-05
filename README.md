@@ -132,11 +132,11 @@ Become a SOC Analyst and contribute to protecting organizations against cyber th
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/pauluskassapa">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:paulussuherman1@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
