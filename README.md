@@ -41,8 +41,6 @@
 
 📊 GitHub Stats
 
-⚠️ Jika stats tidak muncul, gunakan deployment Vercel milikmu sendiri sebagai pengganti YOUR_VERCEL_DOMAIN.
-
 <p align="center">
 <img height="170" src="https://YOUR_VERCEL_DOMAIN.vercel.app/api?username=pauluskassapa&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs/?username=pauluskassapa&layout=compact&theme=tokyonight"/>
